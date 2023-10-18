@@ -1,0 +1,1 @@
+hello this is the inside context of the SECOND text file
